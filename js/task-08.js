@@ -14,6 +14,6 @@ formulario.addEventListener("submit", function (alerta){
             password: passw.value,
         };
 
-        loginForm.reset()
+        formulario.reset()
     }
 });
